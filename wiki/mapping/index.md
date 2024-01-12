@@ -123,6 +123,10 @@ support (mapping support is available in BSMG).
 - [ChroMapper First Time Setup Guide](https://chromapper.atlassian.net/wiki/spaces/UG/pages/917506/First-time+setup)
 - [ChroMapper Wiki](https://chromapper.atlassian.net/wiki/spaces/UG/overview)
 
+#### Lucidium Mapper
+
+A 3D editor designed around a Game Engine workflow. Still in deveopment.
+
 #### Mediocre Map Assistant 2
 
 MMA2 was used by the majority of the mapping community until the ChroMapper open beta.
