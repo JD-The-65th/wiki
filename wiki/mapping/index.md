@@ -125,7 +125,7 @@ support (mapping support is available in BSMG).
 
 #### Lucidium Mapper
 
-A 3D editor designed around a Game Engine workflow. Still in deveopment.
+A 3D editor designed around a Game Engine workflow. Still in development.
 
 #### Mediocre Map Assistant 2
 
